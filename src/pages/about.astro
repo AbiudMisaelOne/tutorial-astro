@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
 const pageTitle = "Sobre mi";
 
 const identity = {
@@ -50,4 +51,6 @@ const goal = 3;
                     <p>¡He alcanzado mi objetivo de completar el tutorial en 3 dias!</p> :
                     <p>mi objetivo no son 3 dias.</p>
                 }
+        <Footer />
+    </body>
 </html>

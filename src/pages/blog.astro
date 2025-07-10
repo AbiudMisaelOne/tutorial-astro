@@ -2,6 +2,7 @@
 const pageTitle = "Mi blog de Astro";
 import '../styles/global.css';
 import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
 ---
 <html lang="es">
 	<head>
@@ -19,5 +20,7 @@ import Navigation from '../components/Navigation.astro';
                 <li><a href="/posts/post-2">Post 2: Configuración del entorno de desarrollo</a></li>
                 <li><a href="/posts/post-3">Post 3: Creación de componentes reutilizables</a></li>
             </ul>
+		<Footer />
+	</body>
 </html>
 
