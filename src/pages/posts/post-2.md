@@ -9,11 +9,6 @@ image:
 pubDate: 2022-07-08
 tags: ["astro", "bloguear", "aprender en público", "éxitos"]
 ---
-# Mi segunda publicación en el blog
-
-Publicado el: 2022-07-01
-
-¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
 
 ## Lo que he conseguido
 
